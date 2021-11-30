@@ -1,0 +1,22 @@
+Single,joint,1
+In a relationship,TRUE,2
+Dating,TRUE,3
+Lover,TRUE,4
+Partner,TRUE,5
+Engaged,TRUE,6
+Married,TRUE,7
+Monogamous,FALSE,8
+Polyamorous,TRUE,9
+Primary,TRUE,10
+Metamour,TRUE,11
+In an open relationship,TRUE,12
+Friend with benefits,TRUE,13
+Play partners,TRUE,14
+It’s Complicated,TRUE,15
+Member of a house,TRUE,16
+In a pack,TRUE,17
+In a leather family,TRUE,18
+In a poly group,TRUE,19
+In a poly family,TRUE,20
+Widow,FALSE,21
+Widower,FALSE,22

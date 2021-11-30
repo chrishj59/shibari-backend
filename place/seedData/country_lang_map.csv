@@ -1,0 +1,358 @@
+name,alpha2,languages,Sequence
+Afghanistan,AF,pus,1
+Albania,AL,sqi,1
+Algeria,DZ,ara,1
+American Samoa,AS,eng,1
+American Samoa,AS,smo,1
+Andorra,AD,cat,1
+Angola,AO,por,1
+Anguilla,AI,eng,1
+Antarctica,AQ,,1
+Antigua And Barbuda,AG,eng,1
+Argentina,AR,spa,1
+Armenia,AM,hye,1
+Armenia,AM,rus,2
+Aruba,AW,nld,1
+Ascension Island,AC,eng,1
+Australia,AU,eng,1
+Austria,AT,deu,1
+Azerbaijan,AZ,aze,1
+Bahamas,BS,eng,1
+Bahrain,BH,ara,1
+Bangladesh,BD,ben,1
+Barbados,BB,eng,1
+Belarus,BY,bel,1
+Belarus,BY,rus,2
+Belgium,BE,nld,1
+Belgium,BE,fra,2
+Belgium,BE,deu,3
+Belize,BZ,eng,1
+Benin,BJ,fra,1
+Bermuda,BM,eng,1
+Bhutan,BT,dzo,1
+"Bolivia, Plurinational State Of",BO,spa,1
+"Bolivia, Plurinational State Of",BO,aym,2
+"Bolivia, Plurinational State Of",BO,que,3
+"Bonaire, Saint Eustatius And Saba",BQ,nld,4
+Bosnia & Herzegovina,BA,bos,1
+Bosnia & Herzegovina,BA,cre,2
+Bosnia & Herzegovina,BA,srp,3
+Botswana,BW,eng,1
+Botswana,BW,tsn,2
+Bouvet Island,BV,,1
+Brazil,BR,por,2
+British Indian Ocean Territory,IO,eng,1
+Brunei Darussalam,BN,msa,1
+Brunei Darussalam,BN,eng,2
+Bulgaria,BG,bul,1
+Burkina Faso,BF,fra,1
+Burundi,BI,fra,1
+Cabo Verde,CV,por,1
+Cambodia,KH,khm,1
+Cameroon,CM,eng,1
+Cameroon,CM,fra,2
+Canada,CA,eng,1
+Canada,CA,fra,2
+Canary Islands,IC,,1
+Cayman Islands,KY,eng,1
+Central African Republic,CF,fra,1
+Central African Republic,CF,sag,2
+"Ceuta, Mulilla",EA,,1
+Chad,TD,ara,1
+Chad,TD,fra,2
+Chile,CL,spa,1
+China,CN,zho,1
+Christmas Island,CX,eng,1
+Clipperton Island,CP,,1
+Cocos (Keeling) Islands,CC,eng,1
+Colombia,CO,spa,1
+Comoros,KM,ara,1
+Comoros,KM,fra,2
+Cook Islands,CK,eng,1
+Cook Islands,CK,mri,2
+Costa Rica,CR,spa,1
+Croatia,HR,hrv,1
+Cuba,CU,spa,1
+Curacao,CW,nld,1
+Cyprus,CY,ell,1
+Cyprus,CY,tur,2
+Czech Republic,CZ,ces,1
+Côte d'Ivoire,CI,fra,1
+Democratic Republic Of Congo,CD,fra,1
+Democratic Republic Of Congo,CD,fin,2
+Democratic Republic Of Congo,CD,kon,3
+Democratic Republic Of Congo,CD,swa,4
+Denmark,DK,dan,1
+Diego Garcia,DG,,1
+Djibouti,DJ,ara,1
+Djibouti,DJ,fra,2
+Dominica,DM,eng,1
+Dominican Republic,DO,spa,1
+Ecuador,EC,spa,1
+Ecuador,EC,que,2
+Egypt,EG,ara,3
+El Salvador,SV,spa,1
+Equatorial Guinea,GQ,spa,1
+Equatorial Guinea,GQ,fra,2
+Equatorial Guinea,GQ,por,3
+Eritrea,ER,eng,1
+Eritrea,ER,ara,2
+Eritrea,ER,tir,3
+Estonia,EE,est,1
+Ethiopia,ET,amh,1
+European Union,EU,,1
+Falkland Islands,FK,eng,1
+Faroe Islands,FO,fao,1
+Faroe Islands,FO,dan,2
+Fiji,FJ,eng,1
+Fiji,FJ,fij,2
+Finland,FI,fin,1
+Finland,FI,swe,2
+France,FR,fra,1
+"France, Metropolitan",FX,fra,1
+French Guiana,GF,fra,1
+French Polynesia,PF,fra,1
+French Southern Territories,TF,fra,1
+Gabon,GA,fra,1
+Gambia,GM,eng,1
+Georgia,GE,kat,1
+Germany,DE,deu,1
+Ghana,GH,eng,1
+Gibraltar,GI,eng,1
+Greece,GR,ell,1
+Greenland,GL,kal,1
+Grenada,GD,eng,1
+Guadeloupe,GP,fra,1
+Guam,GU,eng,1
+Guatemala,GT,spa,1
+Guernsey,GG,fra,1
+Guinea,GN,fra,11
+Guinea-bissau,GW,por,1
+Guyana,GY,eng,1
+Haiti,HT,fra,1
+Haiti,HT,hat,2
+Heard Island And McDonald Islands,HM,,1
+Honduras,HN,spa,1
+Hong Kong,HK,zho,1
+Hong Kong,HK,eng,2
+Hungary,HU,hun,1
+Iceland,IS,isl,1
+India,IN,eng,1
+India,IN,hin,2
+Indonesia,ID,ind,1
+"Iran, Islamic Republic Of",IR,fas,1
+Iraq,IQ,ara,1
+Iraq,IQ,kur,2
+Ireland,IE,eng,1
+Ireland,IE,gle,2
+Isle Of Man,IM,eng,1
+Isle Of Man,IM,glv,2
+Israel,IL,heb,1
+Israel,IL,ara,2
+Israel,IL,eng,3
+Italy,IT,ita,1
+Jamaica,JM,eng,1
+Japan,JP,jpn,1
+Jersey,JE,eng,1
+Jersey,JE,fra,2
+Jordan,JO,ara,1
+Kazakhstan,KZ,kaz,1
+Kazakhstan,KZ,rus,2
+Kenya,KE,eng,1
+Kenya,KE,swa,2
+Kiribati,KI,eng,1
+"Korea, Democratic People's Republic Of",KP,kor,1
+"Korea, Republic Of",KR,kor,1
+Kosovo,XK,sqi,1
+Kosovo,XK,srp,2
+Kosovo,XK,bos,3
+Kosovo,XK,tur,4
+Kosovo,XK,rom,5
+Kuwait,KW,ara,1
+Kyrgyzstan,KG,rus,1
+Lao People's Democratic Republic,LA,lao,1
+Latvia,LV,lav,1
+Lebanon,LB,ara,1
+Lebanon,LB,hye,2
+Lesotho,LS,eng,1
+Lesotho,LS,sot,2
+Liberia,LR,eng,1
+Libya,LY,ara,1
+Liechtenstein,LI,deu,1
+Lithuania,LT,lit,1
+Luxembourg,LU,fra,1
+Luxembourg,LU,deu,2
+Luxembourg,LU,ltz,3
+Macao,MO,zho,1
+Macao,MO,por,2
+"Macedonia, The Former Yugoslav Republic Of",MK,mkd,1
+Madagascar,MG,fra,1
+Madagascar,MG,mlg,2
+Malawi,MW,eng,1
+Malawi,MW,nya,2
+Malaysia,MY,msa,1
+Malaysia,MY,eng,2
+Maldives,MV,div,1
+Mali,ML,fra,1
+Malta,MT,mlt,1
+Malta,MT,eng,2
+Marshall Islands,MH,eng,1
+Marshall Islands,MH,mah,2
+Martinique,MQ,Fra,1
+Mauritania,MR,ara,1
+Mauritania,MR,fra,2
+Mauritius,MU,eng,1
+Mauritius,MU,fra,2
+Mayotte,YT,fra,1
+Mexico,MX,spa,1
+"Micronesia, Federated States Of",FM,eng,1
+Moldova,MD,ron,1
+Monaco,MC,fra,1
+Mongolia,MN,mon,1
+Montenegro,ME,mot,1
+Montserrat,MS,eng,1
+Morocco,MA,ara,1
+Mozambique,MZ,por,1
+Myanmar,MM,mya,1
+Namibia,NA,eng,1
+Nauru,NR,eng,1
+Nauru,NR,nau,2
+Nepal,NP,nep,1
+Netherlands,NL,nld,1
+New Caledonia,NC,fra,1
+New Zealand,NZ,eng,1
+Nicaragua,NI,spa,1
+Niger,NE,fra,1
+Nigeria,NG,eng,1
+Niue,NU,eng,1
+Norfolk Island,NF,eng,1
+Northern Mariana Islands,MP,eng,1
+Norway,NO,nor,1
+Oman,OM,ara,1
+Pakistan,PK,urd,1
+Pakistan,PK,eng,2
+Palau,PW,eng,1
+"Palestinian Territory, Occupied",PS,ara,1
+Panama,PA,spa,1
+Papua New Guinea,PG,eng,1
+Paraguay,PY,spa,1
+Peru,PE,spa,1
+Peru,PE,aym,2
+Peru,PE,que,3
+Philippines,PH,eng,1
+Pitcairn,PN,eng,11
+Poland,PL,pol,1
+Portugal,PT,por,1
+Puerto Rico,PR,spa,1
+Puerto Rico,PR,eng,2
+Qatar,QA,ara,1
+Republic Of Congo,CG,fra,1
+Republic Of Congo,CG,lin,2
+Reunion,RE,fra,1
+Romania,RO,ron,1
+Russian Federation,RU,rus,1
+Rwanda,RW,eng,1
+Rwanda,RW,fra,2
+Rwanda,RW,kin,3
+Saint Barthélemy,BL,fra,1
+"Saint Helena, Ascension And Tristan Da Cunha",SH,eng,1
+Saint Kitts And Nevis,KN,eng,1
+Saint Lucia,LC,eng,1
+Saint Martin,MF,fra,1
+Saint Pierre And Miquelon,PM,eng,1
+Saint Vincent And The Grenadines,VC,eng,1
+Samoa,WS,eng,1
+Samoa,WS,smo,2
+San Marino,SM,ita,1
+Sao Tome and Principe,ST,por,1
+Saudi Arabia,SA,ara,1
+Senegal,SN,fra,1
+Serbia,RS,srp,1
+Seychelles,SC,eng,1
+Seychelles,SC,fra,2
+Sierra Leone,SL,eng,1
+Singapore,SG,eng,1
+Singapore,SG,zho,2
+Singapore,SG,msa,3
+Singapore,SG,tam,4
+Sint Maarten,SX,nld,1
+Slovakia,SK,slk,1
+Slovenia,SI,slv,1
+Solomon Islands,SB,eng,1
+Somalia,SO,som,1
+South Africa,ZA,afr,1
+South Africa,ZA,eng,2
+South Africa,ZA,nbl,3
+South Africa,ZA,som,4
+South Africa,ZA,tso,5
+South Africa,ZA,ven,6
+South Africa,ZA,xho,7
+South Africa,ZA,zul,8
+South Georgia And The South Sandwich Islands,GS,eng,1
+South Sudan,SS,eng,1
+Spain,ES,spa,1
+Sri Lanka,LK,sin,1
+Sri Lanka,LK,tam,1
+Sudan,SD,ara,1
+Sudan,SD,eng,1
+Suriname,SR,nld,1
+Svalbard And Jan Mayen,SJ,nor,1
+Swaziland,SZ,eng,1
+Swaziland,SZ,ssw,2
+Sweden,SE,swe,1
+Switzerland,CH,deu,1
+Switzerland,CH,fra,2
+Switzerland,CH,ita,3
+Switzerland,CH,roh,4
+Syrian Arab Republic,SY,ara,1
+Taiwan,TW,zho,1
+Tajikistan,TJ,tgk,1
+Tajikistan,TJ,rus,2
+"Tanzania, United Republic Of",TZ,swa,1
+"Tanzania, United Republic Of",TZ,eng,2
+Thailand,TH,tha,1
+"Timor-Leste, Democratic Republic of",TL,por,1
+Togo,TG,fra,1
+Tokelau,TK,eng,1
+Tonga,TO,eng,1
+Trinidad And Tobago,TT,eng,1
+Tristan de Cunha,TA,eng,1
+Tunisia,TN,ara,1
+Turkey,TR,tur,1
+Turkmenistan,TM,tuk,1
+Turkmenistan,TM,rus,2
+Turks And Caicos Islands,TC,eng,1
+Tuvalu,TV,eng,1
+Uganda,UG,eng,1
+Uganda,UG,swa,2
+Ukraine,UA,ukr,1
+Ukraine,UA,rus,2
+United Arab Emirates,AE,ara,1
+United Kingdom,GB,eng,1
+United Kingdom,GB,cor,2
+United Kingdom,GB,gle,3
+United Kingdom,UK,eng,1
+United Kingdom,UK,cor,2
+United Kingdom,UK,gle,3
+United States,US,eng,1
+United States Minor Outlying Islands,UM,eng,1
+Uruguay,UY,spa,1
+USSR,SU,rus,1
+Uzbekistan,UZ,uzb,1
+Uzbekistan,UZ,rus,2
+Vanuatu,VU,bis,1
+Vanuatu,VU,eng,2
+Vanuatu,VU,fra,3
+Vatican City State,VA,ita,1
+"Venezuela, Bolivarian Republic Of",VE,spa,1
+Viet Nam,VN,vie,1
+Virgin Islands (British),VG,eng,1
+Virgin Islands (US),VI,eng,1
+Wallis And Futuna,WF,fra,1
+Western Sahara,EH,msa,1
+Yemen,YE,ara,1
+Zambia,ZM,eng,1
+Zimbabwe,ZW,eng,1
+Zimbabwe,ZW,sna,2
+Zimbabwe,ZW,nde,3
+Åland Islands,AX,swe,1
